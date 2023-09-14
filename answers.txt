@@ -1,0 +1,2 @@
+What is a remote repository?
+A remote repository is a git repo that is stored online. This can be used to allow teams to work on a project together more easily.
